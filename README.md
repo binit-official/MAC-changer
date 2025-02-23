@@ -76,10 +76,9 @@ graph TD;
 ```
 
 
-## 📜 License
-MIT License
+
 
 ## ✉️ Contact
-For queries, reach out at [your_email@example.com](mailto:your_email@example.com).
+For queries, reach out at [binitkuanar57@gmail.com](mailto:binitkuanar57@gmail.com).
 
 Happy Hacking! 🚀
